@@ -274,7 +274,7 @@ export NVM_DIR="$HOME/.nvm"
 # [ -s ${HOME}/.rvm/scripts/rvm ] && source ${HOME}/.rvm/scripts/rvm
 # source /etc/profile.d/rvm.sh
 alias k=kubectl
-alias kg=kubectl get
+alias kg='kubectl get'
 alias py=python3
 alias python=python3
 
